@@ -89,7 +89,7 @@ Run the application using Java and the executable JAR file produced by the Gradl
 listening to port `8080`.
 
 ```console
-$ java -jar build/libs/developer-joyofenergy-java.jar
+$ java -jar build/libs/expense-calculator-java.jar
 ```
 
 ### Run the tests
